@@ -19,7 +19,7 @@ export function Projects() {
       title: "Chat Application",
       description: "Real-time chat app with some featires of Telegram and WhatsApp",
       tech: ["React.js", "JavaScript", "MongoDb", "Socket.io", "NodeJs"],
-      link: "#"
+      link: "https://chat-app-frontend-sable.vercel.app/"
     },
     {
       title: "Blockchain Explorer",
