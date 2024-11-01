@@ -6,7 +6,7 @@ export function Hero() {
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col items-center text-center">
           <img
-            src="../src/assets/ProfilePic.jpg"
+            src="../public/ProfilePic.jpg"
             alt="Profile"
             className="w-32 h-32 rounded-full object-center mb-8 ring-4 ring-blue-500 dark:ring-blue-400"
           />
