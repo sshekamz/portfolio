@@ -10,16 +10,16 @@ interface Project {
 export function Projects() {
   const projects: Project[] = [
     {
+        title: "Chat Application",
+        description: "Real-time chat app with some featires of Telegram and WhatsApp",
+        tech: ["React.js", "JavaScript", "MongoDb", "Socket.io", "NodeJs"],
+        link: "https://chat-app-frontend-sable.vercel.app/"
+      },
+    {
       title: "E-Commerce Platform",
       description: "Full-stack e-commerce solution built with React, Node.js, and MongoDB",
       tech: ["React", "Node.js", "MongoDB", "Redux"],
-      link: "#"
-    },
-    {
-      title: "Chat Application",
-      description: "Real-time chat app with some featires of Telegram and WhatsApp",
-      tech: ["React.js", "JavaScript", "MongoDb", "Socket.io", "NodeJs"],
-      link: "https://chat-app-frontend-sable.vercel.app/"
+      link: "https://ecoshop-orpin.vercel.app/"
     },
     {
       title: "Blockchain Explorer",
