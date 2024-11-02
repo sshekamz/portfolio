@@ -21,7 +21,7 @@ export function Contact() {
               Email Me
             </a>
             <a
-              href="https://drive.google.com/file/d/1qlrTPqUzGxceiUud-xsmqEyG1aqXQL8X/view?usp=sharing"
+              href="https://drive.google.com/file/d/1aKT0E9JgWMaD8B0hpWiDpwr6wbjrbvCZ/view?usp=sharing"
               className="px-6 py-3 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-white rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors flex items-center gap-2"
             >
               <Briefcase className="w-5 h-5" />
