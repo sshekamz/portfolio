@@ -38,7 +38,7 @@ export function About() {
         <div className="grid md:grid-cols-2 gap-8">
           <div className="space-y-4">
             <p className="text-gray-600 dark:text-gray-300">
-              I'm a passionate software developer with 3+ years of experience building web applications.
+              I'm a passionate software developer with 3.5 years of experience building web applications.
               I specialize in React, Node.js, TyepeScript, cloud technologies like AWS, and MongoDB, Postgres Databases with a recent focus on AI integration.
             </p>
             <p className="text-gray-600 dark:text-gray-300">
